@@ -1,0 +1,8 @@
+/.DS_Store
+/.repository/
+/api.raml
+/api.xml
+/log4j2.xml
+/mule-app.properties
+/mule-deploy.properties
+/subFlows/
